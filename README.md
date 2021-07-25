@@ -29,7 +29,7 @@ MacOS Support Only! windows support will not come, but linux support might later
 
 # Open Source?
 
-RetroSn0w's source code is not public as of not, it will be very soon.
+RetroSn0w's source code is not public as of now, it will be very soon.
 
 # What the app downloads
 
