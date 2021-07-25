@@ -27,6 +27,10 @@ A GUI version of Project Sandcastle (only 7, 7+ support).
 RetroSn0w will recive feature updates as time goes on.
 MacOS Support Only! windows support will not come, but linux support might later in time.
 
+# Open Source?
+
+RetroSn0w's source code is not public as of not, it will be very soon.
+
 # What the app downloads
 
 When the app downloads its files, they will be located in ~/Documents/RetroSn0w.
